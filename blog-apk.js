@@ -1,5 +1,5 @@
 var apklama = 'https://ouo.io/b5g3qx';
-var apkbaru = 'http://j.gs/EFxr';
+var apkbaru = 'http://google.com';
 function updateme()
 {
 var text = document.getElementsByTagName('body')[0].innerHTML;
