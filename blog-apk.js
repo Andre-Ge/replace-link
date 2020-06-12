@@ -1,5 +1,5 @@
-var apklama = 'https://ouo.io/b5g3qx';
-var apkbaru = 'https://ouo.io/b5g3qx';
+var apklama = '';
+var apkbaru = '';
 function updateme()
 {
 var text = document.getElementsByTagName('body')[0].innerHTML;
