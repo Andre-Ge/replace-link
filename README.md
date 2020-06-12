@@ -1,2 +1,2 @@
-# replace-link-blog
-Replace link blog
+# replace-link
+Replace link
